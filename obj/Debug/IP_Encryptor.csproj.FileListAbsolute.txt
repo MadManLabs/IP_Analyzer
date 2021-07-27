@@ -1,0 +1,7 @@
+C:\Users\u\source\repos\IP_Encryptor\bin\Debug\IP_Encryptor.exe.config
+C:\Users\u\source\repos\IP_Encryptor\bin\Debug\IP_Encryptor.exe
+C:\Users\u\source\repos\IP_Encryptor\bin\Debug\IP_Encryptor.pdb
+C:\Users\u\source\repos\IP_Encryptor\obj\Debug\IP_Encryptor.csprojAssemblyReference.cache
+C:\Users\u\source\repos\IP_Encryptor\obj\Debug\IP_Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\u\source\repos\IP_Encryptor\obj\Debug\IP_Encryptor.exe
+C:\Users\u\source\repos\IP_Encryptor\obj\Debug\IP_Encryptor.pdb
